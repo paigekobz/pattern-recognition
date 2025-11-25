@@ -1,0 +1,5 @@
+assumptions for this assignment:
+1. Age and Salary are numerical values that can be scaled
+2. City is a categorical variable that needs to be encoded
+3. Purchased is a binary variable (0 or 1) that does not need to be scaled or encoded
+4. Missing values in Age and Salary can be filled with the mean of the column
